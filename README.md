@@ -1,9 +1,9 @@
 # Google Cloud & Istanbul Data Science Academy Data Analyst V.2 Boostcamp Portfolio
 
 
-Hi there! I’m Ceren, and I participated in the Google Cloud & Istanbul Data Science Academy Data Analyst V.2 Boostcamp to enhance my skills in data analytics and visualization. Throughout this bootcamp, I executed a variety of lab studies on the Google Cloud Platform and practiced data visualization using Looker Studio. This boostcamp and studies have significantly improved my abilities in the data analytics and visualization field.
+Hello! I'm Ceren, and I participated in the Google Cloud & Istanbul Data Science Academy Data Analyst V.2 Boostcamp to enhance my skills in data analytics and visualization. Throughout this bootcamp, I completed a series of lab studies on the Google Cloud Platform and gained hands-on experience in data visualization using Looker Studio. The boostcamp and these studies have significantly contributed to the enhancement of my abilities in the field of data analytics and visualization.
 
-In this GitHub repository, I aim to showcase my experience by publishing my studies conducted during the bootcamp. My projects focused on lab studies on the Google Cloud Platform and data visualization on Looker Studio with miscellaneous data.
+In this GitHub repository, I aim to showcase my experience by sharing the studies I conducted during the bootcamp. My projects primarily focus on lab studies conducted on the Google Cloud Platform and data visualization using Looker Studio, covering a variety of datasets.
 
 ## Projects Overview
 
@@ -52,7 +52,7 @@ This project focuses on applying data preparation and cleaning techniques to ana
 
 This project enhances the dataset's usability for subsequent analysis and modeling tasks.
 
-This portfolio is formed to display my knowledge and experience in data analytics and visualization and share it with related communities. For further information, you can explore the folders or connect with me.
+This portfolio is crafted to demonstrate my knowledge and experience in data analytics and visualization, and to contribute to relevant communities. For further information, please explore the folders or feel free to reach out to me.
 
 Thank you!
 
