@@ -190,7 +190,7 @@ ORDER BY
 
 ```
 
-Ww can see three newly added fields:
+We can see three newly added fields:
 -	predicted_will_buy_on_return_visit: whether the model thinks the visitor will buy later (1 = yes)
 -	predicted_will_buy_on_return_visit_probs.label: the binary classifier for yes / no
 -	predicted_will_buy_on_return_visit_probs.prob: the confidence the model has in it's prediction (1 = 100%)
