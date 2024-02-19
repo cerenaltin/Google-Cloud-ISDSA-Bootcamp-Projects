@@ -17,18 +17,34 @@ The Google Analytics Sample Ecommerce dataset that has millions of Google Analyt
 Your data analyst team exported the Google Analytics logs for an ecommerce website into BigQuery and created a new table of all the raw ecommerce visitor session data for you to explore. Using this data, you'll try to answer a few questions.
 
 - Question: Out of the total visitors who visited our website, what % made a purchase?
+  
+ <img src="1.JPG" >
 
 - Question: What are the top 5 selling products?
 
+<img src="2.JPG" >
+
 - Question: How many visitors bought on subsequent visits to the website?
+
+<img src="3.JPG" >
 
 Analyzing the results, we can see that (11873 / 729848) = 1.6% of total visitors will return and purchase from the website. This includes the subset of visitors who bought on their very first session and then came back and bought again.
 
 Your team decides to test whether these two fields are good inputs for your classification model:
 -	totals.bounces (whether the visitor left the website immediately)
 -	totals.timeOnSite (how long the visitor was on our website)
+
+<img src="4-1.JPG" >
+<img src="4-2.JPG" >
+
 Question: Looking at the initial data results, do you think time_on_site and bounces will be a good indicator of whether the user will return and purchase or not?
 Answer: It's often too early to tell before training and evaluating the model, but at first glance out of the top 10 time_on_site, only 1 customer returned to buy, which isn't very promising. Let's see how well the model does.
 
-After evaluating our model we get a roc_auc of 0.72, which shows that the model has not great predictive power. Since the goal is to get the area under the curve as close to 1.0 as possible, there is room for improvement.
+In BigQuery ML, roc_auc is simply a queryable field when evaluating your trained ML model.
+
+<img src="5.JPG" >
+
+After evaluating  our model we get a roc_auc of 0.72, which shows that the model has not great predictive power. Since the goal is to get the area under the curve as close to 1.0 as possible, there is room for improvement.
+
+
 
