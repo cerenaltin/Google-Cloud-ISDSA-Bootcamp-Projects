@@ -213,18 +213,18 @@ Our roc_auc has increased by about .02 to around .94! Let’s finish up by gener
 
 <img src="9.JPG" >
 
-## ROC Curve Methodology
+### ROC Curve Methodology
 
 <img src="10.png" >
 
- # First model's ROC curve:
+#### First Model's ROC Curve:
  
  <img src="12.JPG" >
  
- # Second model's ROC curve:
+#### Second Model's ROC Curve:
  
  <img src="13.JPG" >
  
- # Third model's ROC curve:
+#### Third Model's ROC Curve:
  
  <img src="14.JPG" >
