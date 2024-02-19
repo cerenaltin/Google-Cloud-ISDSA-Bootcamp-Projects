@@ -195,10 +195,36 @@ We can see three newly added fields:
 -	predicted_will_buy_on_return_visit_probs.label: the binary classifier for yes / no
 -	predicted_will_buy_on_return_visit_probs.prob: the confidence the model has in it's prediction (1 = 100%)
 
-<img src="9.JPG" >
+<img src="7.JPG" >
+
+
 
 ## Results
 -	Of the top 6% of first-time visitors (sorted in decreasing order of predicted probability), more than 6% make a purchase in a later visit.
 -	These users represent nearly 50% of all first-time visitors who make a purchase in a later visit.
 -	Overall, only 0.7% of first-time visitors make a purchase in a later visit.
 -	Targeting the top 6% of first-time increases marketing ROI by 9x vs targeting them all!
+
+Though our linear classification (logistic regression) model performed well after feature engineering, it may be too simple of a model to fully capture the relationship between the features and the label. Used the same dataset and labels as we  created the model ecommerce.classification_model_2,  create a XGBoost Classifier.
+
+<img src="8.JPG" >
+
+Our roc_auc has increased by about .02 to around .94! Let’s finish up by generating predictions with our improved model and see how they compare to those we generated before. 
+
+<img src="9.JPG" >
+
+## ROC Curve Methodology
+
+<img src="10.JPG" >
+
+ -First model's ROC curve:
+ 
+ <img src="12.JPG" >
+ 
+ -Second model's ROC curve:
+ 
+ <img src="13.JPG" >
+ 
+ -Third model's ROC curve:
+ 
+ <img src="14.JPG" >
