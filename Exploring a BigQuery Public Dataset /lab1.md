@@ -14,7 +14,7 @@ In this task, We load a public dataset, USA Names, into BigQuery, then query the
 ## Queries
 - Query bigquery-public-data.usa_names.usa_1910_2013 for the name and gender of the babies in this dataset, and then list the top 10 names in descending order.
   
-![Açıklama](images/lab1.png)
+![Açıklama](Google-Cloud-ISTDSA-Bootcamp-Projects/images/lab1.png)
 
 
   
