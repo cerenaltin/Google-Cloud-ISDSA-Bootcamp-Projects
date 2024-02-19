@@ -5,4 +5,4 @@ This project is focused on enhancing the usability of an e-commerce dataset thro
 
  <img src="lab2.JPG" alt="datapreparation" >
 
-By implementing these transformations, the project ensures that the e-commerce dataset is well-prepared and cleaned, setting the stage for in-depth analysis and modeling tasks. This enhanced dataset facilitates more accurate and meaningful insights into customer behavior, sales performance, and other critical aspects of the e-commerce domain."
+By implementing these transformations, the project ensures that the e-commerce dataset is well-prepared and cleaned, setting the stage for in-depth analysis and modeling tasks. This enhanced dataset facilitates more accurate and meaningful insights into customer behavior, sales performance, and other critical aspects of the e-commerce domain.
