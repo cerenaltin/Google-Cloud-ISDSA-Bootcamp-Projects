@@ -37,7 +37,7 @@ Your team decides to test whether these two fields are good inputs for your clas
 <img src="4-1.JPG" >
 <img src="4-2.JPG" >
 
-Question: Looking at the initial data results, do you think time_on_site and bounces will be a good indicator of whether the user will return and purchase or not?
+- Question: Looking at the initial data results, do you think time_on_site and bounces will be a good indicator of whether the user will return and purchase or not?
 Answer: It's often too early to tell before training and evaluating the model, but at first glance out of the top 10 time_on_site, only 1 customer returned to buy, which isn't very promising. Let's see how well the model does.
 
 In BigQuery ML, roc_auc is simply a queryable field when evaluating your trained ML model.
