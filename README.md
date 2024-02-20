@@ -7,7 +7,8 @@ In this GitHub repository, I aim to showcase my experience by sharing the studie
 
 ## Projects Overview
 
-### 1. Vertex AI: Loan Risk Prediction
+### <a href="Predicting Visitor Purchases with BigQuery ML"> 1. Vertex AI: Loan Risk Prediction</a>
+ 1. Vertex AI: Loan Risk Prediction
 
 **Overview:**
 In this lab, I utilized Vertex AI to train and deploy a machine learning model aimed at predicting loan risk using a tabular dataset. The key objectives include:
