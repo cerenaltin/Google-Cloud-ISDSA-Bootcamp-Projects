@@ -17,7 +17,7 @@ In this lab, I utilized Vertex AI to train and deploy a machine learning model a
 - Deploying the model to an endpoint.
 - Obtaining predictions.
 
-### [2. Predicting Visitor Purchases with BigQuery ML](#2-predicting-visitor-purchases-with-bigquery-ml)
+### <a href="Data Preparation Project: E-commerce Dataset Analysis"> 1. Vertex AI: Loan Risk Prediction</a>
 
 **Overview:**
 BigQuery ML (BQML) is a feature within BigQuery that enables data analysts to create, train, evaluate, and predict using machine learning models with minimal coding. In this lab, I leveraged the Google Analytics Sample Ecommerce dataset within BigQuery to analyze customer purchasing habits. The objectives include:
