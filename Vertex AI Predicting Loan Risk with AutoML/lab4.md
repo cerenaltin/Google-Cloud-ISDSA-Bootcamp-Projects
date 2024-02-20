@@ -12,7 +12,7 @@ In this lab we build a ML model to determine whether a particular customer will 
 -	Deploy the model to an endpoint.
 -	Get predictions.
 
-### Challenge
+### Let's Start!
 
 - Trained our model.
 
@@ -46,6 +46,8 @@ To allow the pipeline to authenticate, and be authorized to call the endpoint to
 <img src="img/loan6.JPG" alt="loan6" >
 
 In this case, assuming that the person's income is 50,000, age 30, and loan 20,000, the model predicts that this person will repay the loan.
+
+## Thank you for your time and attention to these projects! 🚀
 
  
 
