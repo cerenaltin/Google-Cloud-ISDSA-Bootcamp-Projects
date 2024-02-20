@@ -19,3 +19,5 @@ In this task, We load a public dataset, USA Names, into BigQuery, then query the
 - I conducted a targeted query analysis utilizing Chicago crime data as part of a lab exercise.
 
 <img src="img/2.JPG" alt="query2" >
+
+## Thank you for your time and attention to these projects! 🚀
