@@ -11,8 +11,7 @@ In this lab we build a ML model to determine whether a particular customer will 
 -	Evaluate the model performance.
 -	Deploy the model to an endpoint.
 -	Get predictions.
-
-- Trained our model.
+- Traine our model.
 
  <img src="img/loan1.JPG" alt="loan1" >
 
