@@ -54,5 +54,5 @@ This project enhances the dataset's usability for subsequent analysis and modeli
 
 This portfolio is crafted to demonstrate my knowledge and experience in data analytics and visualization, and to contribute to relevant communities. For further information, please explore the folders or feel free to reach out to me.
 
-Thank you!
+Thank you 🚀!
 
