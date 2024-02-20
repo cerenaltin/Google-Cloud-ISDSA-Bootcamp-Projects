@@ -18,15 +18,15 @@ Your data analyst team exported the Google Analytics logs for an ecommerce websi
 
 - Question: Out of the total visitors who visited our website, what % made a purchase?
   
- <img src="1.JPG" >
+ <img src="img/1.JPG" >
 
 - Question: What are the top 5 selling products?
 
-<img src="2.JPG" >
+<img src="img/2.JPG" >
 
 - Question: How many visitors bought on subsequent visits to the website?
 
-<img src="3.JPG" >
+<img src="img/3.JPG" >
 
 Analyzing the results, we can see that (11873 / 729848) = 1.6% of total visitors will return and purchase from the website. This includes the subset of visitors who bought on their very first session and then came back and bought again.
 
@@ -34,15 +34,15 @@ Your team decides to test whether these two fields are good inputs for your clas
 -	totals.bounces (whether the visitor left the website immediately)
 -	totals.timeOnSite (how long the visitor was on our website)
 
-<img src="4-1.JPG" >
-<img src="4-2.JPG" >
+<img src="img/4-1.JPG" >
+<img src="img/4-2.JPG" >
 
 - Question: Looking at the initial data results, do you think time_on_site and bounces will be a good indicator of whether the user will return and purchase or not?
 Answer: It's often too early to tell before training and evaluating the model, but at first glance out of the top 10 time_on_site, only 1 customer returned to buy, which isn't very promising. Let's see how well the model does.
 
 In BigQuery ML, roc_auc is simply a queryable field when evaluating your trained ML model.
 
-<img src="5.JPG" >
+<img src="img/5.JPG" >
 
 After evaluating  our model we get a roc_auc of 0.72, which shows that the model has not great predictive power. Since the goal is to get the area under the curve as close to 1.0 as possible, there is room for improvement.
 
@@ -115,7 +115,7 @@ SELECT * EXCEPT(unique_session_id) FROM (
 ```
 Evaluated this new model to see if there is better predictive power.
 
-<img src="6.JPG" >
+<img src="img/6.JPG" >
 
 With this new model we now get a roc_auc of 0.91 which is significantly better than the first model.
 
@@ -195,7 +195,7 @@ We can see three newly added fields:
 -	predicted_will_buy_on_return_visit_probs.label: the binary classifier for yes / no
 -	predicted_will_buy_on_return_visit_probs.prob: the confidence the model has in it's prediction (1 = 100%)
 
-<img src="7.JPG" >
+<img src="img/7.JPG" >
 
 
 
@@ -207,19 +207,19 @@ We can see three newly added fields:
 
 Though our linear classification (logistic regression) model performed well after feature engineering, it may be too simple of a model to fully capture the relationship between the features and the label. Used the same dataset and labels as we  created the model ecommerce.classification_model_2,  create a XGBoost Classifier.
 
-<img src="8.JPG" >
+<img src="img/8.JPG" >
 
 Our roc_auc has increased by about .02 to around .94! Let’s finish up by generating predictions with our improved model and see how they compare to those we generated before. 
 
-<img src="9.JPG" >
+<img src="img/9.JPG" >
 
 ### ROC Curve Methodology
 
-<img src="10.png" >
+<img src="img/10.png" >
 
 #### First Model's ROC Curve:
  
- <img src="12.JPG" >
+ <img src="img/12.JPG" >
  
 #### Second Model's ROC Curve:
  
