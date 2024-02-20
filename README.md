@@ -37,7 +37,7 @@ BigQuery, an enterprise data warehouse, facilitates the storage and querying of 
 - Loading data into a table.
 - Querying a table.
 
-### <a href="[Data Preparation Project: E-commerce Dataset Analysis](https://github.com/cerenaltin/Google-Cloud-ISTDSA-Bootcamp-Projects/tree/main/Data%20Preparation%20Project%3A%20E-commerce%20Dataset%20Analysis)"> 4. Data Preparation Project: E-commerce Dataset Analysis</a>  
+### <a href="Data Preparation Project: E-commerce Dataset Analysis"> 4. Data Preparation Project: E-commerce Dataset Analysis</a>  
 
 **Project Description:**
 This project focuses on applying data preparation and cleaning techniques to analyze an e-commerce dataset. The following transformations were performed:
