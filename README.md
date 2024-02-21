@@ -60,7 +60,7 @@ Thank you 🚀!
 
 <p align="center">
   <img src="logo/istdsa.png" alt="IDA Logo" width="150" height="70" >
-  <img src="logo/googlecloud.png" alt="Google Cloud Logo" width="200" height="40"  >
+  <img src="logo/googlecloud.png" alt="Google Cloud Logo" width="270" height="60"  >
 </p>
 
 
