@@ -56,10 +56,9 @@ This project enhances the dataset's usability for subsequent analysis and modeli
 
 This portfolio is crafted to demonstrate my knowledge and experience in data analytics and visualization, and to contribute to relevant communities. For further information, please explore the folders or feel free to reach out to me.
 </br>
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 40px;">
   Thank you 🚀!
 </p>
-
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </br>
