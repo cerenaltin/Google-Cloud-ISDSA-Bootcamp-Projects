@@ -57,5 +57,10 @@ This project enhances the dataset's usability for subsequent analysis and modeli
 This portfolio is crafted to demonstrate my knowledge and experience in data analytics and visualization, and to contribute to relevant communities. For further information, please explore the folders or feel free to reach out to me.
 
 Thank you 🚀!
-![IDA Logo](logo/istdsa.png) ![Google Cloud Logo](logo/googlecloud.png)
+
+<p align="center">
+  <img src="logo/istdsa.png" alt="IDA Logo" width="100" height="100">
+  <img src="logo/googlecloud.png" alt="Google Cloud Logo" width="100" height="100">
+</p>
+
 
