@@ -59,6 +59,9 @@ This portfolio is crafted to demonstrate my knowledge and experience in data ana
 Thank you 🚀!
 
 <p align="center">
+      <!--<a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>-->
     <img src="logo/istdsa.png" alt="IDA Logo" width="150" height="70" >
    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="logo/googlecloud.png" alt="Google Cloud Logo" width="350" height="55"  >
