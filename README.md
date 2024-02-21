@@ -59,8 +59,8 @@ This portfolio is crafted to demonstrate my knowledge and experience in data ana
 Thank you 🚀!
 
 <p align="center">
-  <img src="logo/istdsa.png" alt="IDA Logo" width="%50" >
-  <img src="logo/googlecloud.png" alt="Google Cloud Logo" width="%50" >
+  <img src="logo/istdsa.png" alt="IDA Logo" width="200" height="100" >
+  <img src="logo/googlecloud.png" alt="Google Cloud Logo" width="200" height="100"  >
 </p>
 
 
