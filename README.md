@@ -57,12 +57,11 @@ This project enhances the dataset's usability for subsequent analysis and modeli
 This portfolio is crafted to demonstrate my knowledge and experience in data analytics and visualization, and to contribute to relevant communities. For further information, please explore the folders or feel free to reach out to me.
 
 Thank you 🚀!
-
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
+</br>
 <p align="center">
-      <!--<a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>-->
-    <img src="logo/istdsa.png" alt="IDA Logo" width="150" height="70" >
+   <img src="logo/istdsa.png" alt="IDA Logo" width="150" height="70" >
    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="logo/googlecloud.png" alt="Google Cloud Logo" width="350" height="55"  >
 </p>
