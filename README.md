@@ -55,8 +55,11 @@ This project focuses on applying data preparation and cleaning techniques to ana
 This project enhances the dataset's usability for subsequent analysis and modeling tasks.
 
 This portfolio is crafted to demonstrate my knowledge and experience in data analytics and visualization, and to contribute to relevant communities. For further information, please explore the folders or feel free to reach out to me.
+</br>
+<p align="center" style="font-size: 20px;">
+  Thank you 🚀!
+</p>
 
-Thank you 🚀!
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </br>
