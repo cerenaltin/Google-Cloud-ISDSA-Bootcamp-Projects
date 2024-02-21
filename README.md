@@ -12,45 +12,22 @@ In this GitHub repository, I aim to showcase my experience by sharing the studie
 ### <a href="Vertex AI Predicting Loan Risk with AutoML"> 1. Vertex AI Predicting Loan Risk with AutoML</a>
 
 **Overview:**
-In this lab, I utilized Vertex AI to train and deploy a machine learning model aimed at predicting loan risk using a tabular dataset. The key objectives include:
-- Uploading a dataset to Vertex AI.
-- Training a machine learning model with AutoML.
-- Evaluating the model's performance.
-- Deploying the model to an endpoint.
-- Obtaining predictions.
+In this lab, I utilized Vertex AI to train and deploy a machine learning model aimed at predicting loan risk using a tabular dataset. 
 
 ### <a href="Predicting Visitor Purchases with BigQuery ML"> 2. Predicting Visitor Purchases with BigQuery ML</a>
 
 **Overview:**
-BigQuery ML (BQML) is a feature within BigQuery that enables data analysts to create, train, evaluate, and predict using machine learning models with minimal coding. In this lab, I leveraged the Google Analytics Sample Ecommerce dataset within BigQuery to analyze customer purchasing habits. The objectives include:
-- Utilizing BigQuery to access public datasets.
-- Querying and exploring the ecommerce dataset.
-- Creating training and evaluation datasets for batch prediction.
-- Building a classification (logistic regression) model in BigQuery ML.
-- Evaluating the model's performance.
-- Predicting and ranking the probability of visitor purchases.
+BigQuery ML (BQML) is a feature within BigQuery that enables data analysts to create, train, evaluate, and predict using machine learning models with minimal coding. In this lab, I leveraged the Google Analytics Sample Ecommerce dataset within BigQuery to analyze customer purchasing habits. 
 
 ### <a href="Exploring a BigQuery Public Dataset"> 3. Exploring a BigQuery Public Dataset</a>  
 
 **Overview:**
-BigQuery, an enterprise data warehouse, facilitates the storage and querying of massive datasets with unparalleled efficiency. This lab demonstrates accessing BigQuery through the web UI and performing tasks such as querying tables in public datasets and loading sample data. The objectives comprise:
-- Querying a public dataset.
-- Creating a custom table.
-- Loading data into a table.
-- Querying a table.
+BigQuery, an enterprise data warehouse, facilitates the storage and querying of massive datasets with unparalleled efficiency. This lab demonstrates accessing BigQuery through the web UI and performing tasks such as querying tables in public datasets and loading sample data. 
 
 ### <a href="Data Preparation Project Ecommerce Dataset Analysis"> 4. Data Preparation Project: E-commerce Dataset Analysis</a>  
 
 **Project Description:**
-This project focuses on applying data preparation and cleaning techniques to analyze an e-commerce dataset. The following transformations were performed:
-- Changing the productSKU type to String.
-- Deleting the itemQuantity and itemRevenue columns.
-- Removing duplicate rows.
-- Deleting rows where ISMISSINGatotalTransactionRevenueD.
-- Retaining rows where type equals 'PAGE'.
-- Keeping only 8 rows.
-- Concatenating the fullVisitorid and visitId columns.
-- Creating eCommerceAction_label based on 9 case conditions on eCommerceAction_type.
+This project focuses on applying data preparation and cleaning techniques to analyze an e-commerce dataset. 
 
 This project enhances the dataset's usability for subsequent analysis and modeling tasks.
 
