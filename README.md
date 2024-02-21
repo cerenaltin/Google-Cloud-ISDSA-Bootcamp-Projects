@@ -11,22 +11,22 @@ In this GitHub repository, I aim to showcase my experience by sharing the studie
 
 ### <a href="Vertex AI Predicting Loan Risk with AutoML"> 1. Vertex AI Predicting Loan Risk with AutoML</a>
 
-### Overview:
+### Overview
 In this lab, I utilized Vertex AI to train and deploy a machine learning model aimed at predicting loan risk using a tabular dataset. 
 
 ### <a href="Predicting Visitor Purchases with BigQuery ML"> 2. Predicting Visitor Purchases with BigQuery ML</a>
 
-### Overview:
+### Overview
 BigQuery ML (BQML) is a feature within BigQuery that enables data analysts to create, train, evaluate, and predict using machine learning models with minimal coding. In this lab, I leveraged the Google Analytics Sample Ecommerce dataset within BigQuery to analyze customer purchasing habits. 
 
 ### <a href="Exploring a BigQuery Public Dataset"> 3. Exploring a BigQuery Public Dataset</a>  
 
-### Overview:
+### Overview
 BigQuery, an enterprise data warehouse, facilitates the storage and querying of massive datasets with unparalleled efficiency. This lab demonstrates accessing BigQuery through the web UI and performing tasks such as querying tables in public datasets and loading sample data. 
 
 ### <a href="Data Preparation Project Ecommerce Dataset Analysis"> 4. Data Preparation Project: E-commerce Dataset Analysis</a>  
 
-### Overview:
+### Overview
 This project focuses on applying data preparation and cleaning techniques to analyze an e-commerce dataset. 
 
 This project enhances the dataset's usability for subsequent analysis and modeling tasks.
