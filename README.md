@@ -5,7 +5,7 @@ Hello! I'm Ceren, and I participated in the Google Cloud & Istanbul Data Science
 
 In this GitHub repository, I aim to showcase my experience by sharing the studies I conducted during the bootcamp, as well as the projects I created using Looker Studio. My portfolio primarily focuses on lab studies conducted on the Google Cloud Platform and data visualization using Looker Studio, covering a variety of datasets.
 
-- ## <a href="Looker Studio"> Looker Studio Projects </a>
+- ## <a href="Looker Studio"> Looker Studio Projects (Data Visualization) </a>
 
 - ## Google Cloud Projects Overview
 
